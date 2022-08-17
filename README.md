@@ -1,5 +1,5 @@
-This project was bootstrapped with
-[Create React App](https://github.com/facebook/create-react-app).
+Das ist der Code für meine
+[Landingpage](https://landing.nicolas-hasenkopf.de).
 
 ## Available Scripts
 
